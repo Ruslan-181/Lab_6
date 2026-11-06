@@ -13,4 +13,12 @@
  */
 double f(double x);
 
+/**
+ * @brief Множе значення змінної в пам'яті на 2, та виводить на консоль результат
+ *
+ * @param x вказівник
+ * 
+ */
+void PointerTest(int* x);
+
 #endif // MATH_UTILS_H
